@@ -1,4 +1,4 @@
-## Fundamental-Skill-Machine-Learning
+# Fundamental-Skill-Machine-Learning
 
 # 📌 About this Project
 
